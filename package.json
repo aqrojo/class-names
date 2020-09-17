@@ -1,22 +1,21 @@
 {
-  "name": "@aqrojo/when",
+  "name": "@aqrojo/class-names",
   "version": "1.0.4",
-  "description": "js pattern matching utility that helps you to write cleaner code",
+  "description": "react classnames utility",
   "author": "Agustin Quintanilla <aqrojo@oneclick.es> (https://github.com/aqrojo)",
   "license": "MIT",
-  "homepage": "https://github.com/aqrojo/when",
+  "homepage": "https://github.com/aqrojo/class-names",
   "source": "src/index.js",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
   "unpkg": "dist/index.umd.js",
   "bugs": {
-    "url": "https://github.com/aqrojo/when/issues"
+    "url": "https://github.com/aqrojo/class-names/issues"
   },
   "keywords": [
     "utility",
-    "clean code",
-    "ternary",
-    "pattern matching",
+    "react",
+    "css classes",
     "conditional",
     "js"
   ],
@@ -26,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aqrojo/when"
+    "url": "https://github.com/aqrojo/class-names"
   },
   "devDependencies": {
     "jest": "^26.4.2",
