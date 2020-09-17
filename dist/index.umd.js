@@ -1,0 +1,2 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):(e=e||self).when=n()}(this,function(){return function(){return[].slice.call(arguments).map(function(e){return"object"==typeof e?(n=Object.entries(e),n.map(function(e){return e[1]?e[0]:""})).join(" "):e;var n}).join(" ").replace(/\s+/g," ").trim()}});
+//# sourceMappingURL=index.umd.js.map
