@@ -1,0 +1,36 @@
+{
+  "name": "@aqrojo/when",
+  "version": "1.0.4",
+  "description": "js pattern matching utility that helps you to write cleaner code",
+  "author": "Agustin Quintanilla <aqrojo@oneclick.es> (https://github.com/aqrojo)",
+  "license": "MIT",
+  "homepage": "https://github.com/aqrojo/when",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.module.js",
+  "unpkg": "dist/index.umd.js",
+  "bugs": {
+    "url": "https://github.com/aqrojo/when/issues"
+  },
+  "keywords": [
+    "utility",
+    "clean code",
+    "ternary",
+    "pattern matching",
+    "conditional",
+    "js"
+  ],
+  "scripts": {
+    "build": "microbundle",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aqrojo/when"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2",
+    "microbundle": "^0.12.3"
+  },
+  "dependencies": {}
+}
